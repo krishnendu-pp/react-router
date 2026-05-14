@@ -20,9 +20,15 @@ function Home() {
         <p>We have been working with some Fortune 500+ clients</p>
       </div>
     </section>
+    <section > 
+      <div className="eight">
+        <h2>Manage your entire community in a single system</h2>
+        <p>Who is Nextcent suitable for?</p>
+      </div>
+    </section>
     <footer>
          <div className='four'>
-          <h1>Pellentesque suscipit <br /> <br />
+          <h1>Pellentesque suscipit <br /> <br /><br />
                 fringilla libero eu.</h1>
           <br />
        <button>Get a Demo</button>

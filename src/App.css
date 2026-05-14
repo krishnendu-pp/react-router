@@ -21,7 +21,7 @@ list-style: none;
     height: 40px;
     margin-left: -40px;
 }
- .one Link{
+  .one Link{
     text-decoration: none;
     color: black;
     font-size: 18px;
@@ -115,8 +115,31 @@ list-style: none;
        display:flex;
           flex-direction: column;
            justify-content:flex-start;
-          
+          justify-content:space;
           list-style-type: none;
-            
+          text-align: left;
+  }
 
-    
+  .blogg{
+     display:flex;
+          grid-template-rows:subgrid;
+          display: flex;
+          flex-direction: row;
+           justify-content:flex-end;
+           justify-content:space-between;
+          list-style-type: none;
+            gap: 10px;
+              background-color: rgb(255, 255, 255);
+  }
+ 
+   .bblog{
+          display:flex;
+          grid-template-rows:subgrid;
+          display: flex;
+          flex-direction: row;
+          justify-content:flex-end;
+          justify-content:space-between;
+          list-style-type: none;
+          gap: 10px;
+          background-color: rgb(255, 255, 255);
+   }   

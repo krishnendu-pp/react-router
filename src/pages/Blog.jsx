@@ -5,9 +5,10 @@ function Blog() {
 
   return (
     <>
-      <div>
-      <h1>THE</h1>
-    </div>
+     <header>
+      <h1>Nexcent Blog</h1>
+      <p>Insights and articles on modern business, technology, community, and <br />innovation</p>
+   </header>
 
 
 
