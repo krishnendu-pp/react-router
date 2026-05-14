@@ -1,5 +1,122 @@
-.nav{
-  flex-direction: row;
-  justify-content: space-evenly;
-  flex-flow: row;
+.one{
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+list-style: none;
 }
+.one button{
+   background-color: #27bd02;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-top: 20px;
+        text-align: left;
+        margin-left: 100px;
+      
+}
+.one img{
+    width: 40px;
+    height: 40px;
+    margin-left: -40px;
+}
+ .one Link{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    justify-content: space-around;
+}
+.one h3{
+    font-size: 20px;
+    color: #131413;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: -35px;
+}
+.section{
+    background-color: #c5c5c5e3;
+    padding: 5px;
+    text-align: right;
+}
+.two h1{
+    font-size: 50px;
+    color: #27bd02;
+    text-align: left;
+    margin-top: 50px;
+    text-decoration: solid;}
+    .two p{
+        font-size: 16px;
+        color: #7a7171;
+        text-align: left;
+        margin-top: 20px;
+    }
+    .two button{
+        background-color: #27bd02;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-top: 20px;
+        text-align: left;
+        margin-left: 100px;
+    }
+    .two img{
+        width: 150px;
+        height: 150px;
+        margin-top: -100px;
+        margin-right: 100px;
+        display: flexbox;
+        justify-content: flex-end;
+    }
+    
+    .four{
+    background-color: #311877e3;
+    padding: 40px;
+    }
+   .Fifth{
+     display:grid;
+          grid-template-rows: repeat(3,1fr);
+          display: flex;
+          flex-direction: row;
+           justify-content:flex-end;
+           justify-content:space-between;
+          list-style-type: none;
+            gap: 20px;
+              background-color: rgb(70, 73, 82);
+              color: white;
+              padding: 60px;
+   }
+   .five img{
+ width: 100px;
+    height: 100px;
+    margin-left: -40px;
+   }
+   header button{
+      background-color: #27bd02;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-top: 20px;
+        text-align: center;
+        margin-left: 30px;
+        padding: 10px 10px;
+        font-size: 25px;
+   }
+   header{
+    background-color:white;
+    padding: 70px;
+    text-align: center;
+   }
+  .six{
+       display:flex;
+          flex-direction: column;
+           justify-content:flex-start;
+          
+          list-style-type: none;
+            
+
+    

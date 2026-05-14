@@ -6,7 +6,7 @@ function Pricing() {
   return (
     <>
       <div>
-      <h1>hii</h1>
+      <h1>WORLD</h1>
     </div>
     </>
   )
